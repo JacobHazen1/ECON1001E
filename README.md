@@ -8,4 +8,6 @@
 | Caleb Button    | calebbutton@cmail.carleton.ca     |   TBA |
 
 ### Tutorials
-- [Tutorial 1](ECON1001E/files/test.odp)
+- [Tutorial 1][1]
+
+[1]:{{ site.url }}/files/test.odp
