@@ -1,13 +1,18 @@
 ## Welcome to Econ 1001E
 
 ### Contact Information  
+Note: For questions regarding material in this course **please** come to office hours. I have provided emails in the case of emergency/immediate situations.
 
 | TA       | Email        | Office Hours  |
 | ------------- |:-------------:| -----:|
 | Jacob Hazen     | jacobhazen@cmail.carleton.ca | TBA |
 | Caleb Button    | calebbutton@cmail.carleton.ca     |   TBA |
 
-### Tutorials
+### Tutorials  
+Tutorials will focus on practice problems related to the topics covered in the lectures and may include
+graded quizzes that will help you understand the material covered in the lectures and prepare for the
+exams.  
+
 - [Tutorial 1](https://github.com/JacobHazen1/ECON1001E/blob/main/files/test.odp?raw=true)
 
 
