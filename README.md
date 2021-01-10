@@ -1,4 +1,4 @@
-## Welcome to Econ 1001E tutorial page
+## Welcome to Econ 1001E Tutorial Page
 
 ### Contact Information  
 Note: For questions regarding material in this course **please** come to office hours. I have provided emails in the case of emergency/immediate situations.
