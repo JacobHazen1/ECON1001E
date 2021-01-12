@@ -13,6 +13,6 @@ Tutorials will focus on practice problems related to the topics covered in the l
 graded quizzes that will help you understand the material covered in the lectures and prepare for the
 exams.  
 
-- [Tutorial 1 slides](https://github.com/JacobHazen1/ECON1001E/blob/main/files/Tutorial1.pdf?raw=true)
+- [Tutorial 1 slides]
 
 
