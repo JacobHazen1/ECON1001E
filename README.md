@@ -5,7 +5,7 @@ Note: For questions regarding material in this course **please** come to office 
 
 | TA       | Email        | Office Hours  |
 | ------------- |:-------------:| -----:|
-| Jacob Hazen     | jacobhazen@cmail.carleton.ca | TBA |
+| Jacob Hazen     | jacobhazen@cmail.carleton.ca | Wednesday 11:30AM - 12:30PM |
 | Caleb Button    | calebbutton@cmail.carleton.ca     |   TBA |
 
 ### Tutorials  
