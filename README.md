@@ -1,4 +1,4 @@
-## Welcome to Econ 1001E
+## Welcome to Econ 1001E Tutorial Page
 
 ### Contact Information  
 Note: For questions regarding material in this course **please** come to office hours. I have provided emails in the case of emergency/immediate situations.
@@ -13,6 +13,10 @@ Tutorials will focus on practice problems related to the topics covered in the l
 graded quizzes that will help you understand the material covered in the lectures and prepare for the
 exams.  
 
+<<<<<<< HEAD
 - [Tutorial 1 slides](https://github.com/JacobHazen1/ECON1001E/blob/main/files/Tutorial_1.pdf?raw=true)
+=======
+- [Tutorial 1 slides]
+>>>>>>> 62dcc540fe11b92acb83c7ccccbdfab6261d2a8c
 
 
