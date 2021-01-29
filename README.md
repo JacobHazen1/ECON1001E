@@ -16,3 +16,4 @@ exams.
 
 - [Tutorial 1 slides](https://github.com/JacobHazen1/ECON1001E/blob/main/files/Tutorial_1.pdf?raw=true)
 - [Tutorial 2 slides](https://github.com/JacobHazen1/ECON1001E/raw/main/files/Tutorial%202%20-%20Intro%20Microwritten.pdf)
+- [Tutorial 3 slides](https://github.com/JacobHazen1/ECON1001E/raw/main/files/Micro%20Tutorial%20-%20week%203written.pdf)
